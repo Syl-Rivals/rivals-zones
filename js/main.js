@@ -50,8 +50,8 @@ rivals.jsonTimes = [
 	{ Name: '[R]Adonis', Timezone: 5.75 },
 	{ Name: '[R]otten', Timezone: 1 },
 	{ Name: 'Ve[R]l', Timezone: 7 },
-	{ Name: 'Arian', Timezone: 4 },
-	{ Name: 'Blaidd', Timezone: 3 },
+	{ Name: 'Arian', Timezone: 5 },
+	{ Name: 'Blaidd', Timezone: 4 },
 ];
 
 // Basic timezones
