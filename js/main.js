@@ -1,5 +1,4 @@
-var rivals = rivals || {};
-rivals.utils = rivals.utils || {};
+var rivals = rivals || {};rivals.utils = rivals.utils || {};
 rivals.jsonTimes = [
 	{ Name: '~ca~[R]~is~', Timezone: -11 },
 	{ Name: '[R]JAXX', Timezone: -10 },
@@ -24,7 +23,7 @@ rivals.jsonTimes = [
 	{ Name: '[R]TomTom', Timezone: 12 },
 	{ Name: 'FisHunte[R]Ⓡ', Timezone: 2 },
 	{ Name: '[R]NetanelG', Timezone: 2 },
-	{ Name: '[R] Holy', Timezone: 4 },
+	{ Name: 'Sense[R]', Timezone: 1 },
 	{ Name: '[R]Prophesy', Timezone: 4 },
 	{ Name: 'gato pirata', Timezone: 4 },
 	{ Name: '[R] Asat', Timezone: 3 },
@@ -38,7 +37,7 @@ rivals.jsonTimes = [
 	{ Name: 'KniveS', Timezone: -6 },
 	{ Name: '[R] QB300', Timezone: 11 },
 	{ Name: '[R[Vitold', Timezone: 11 },
-	{ Name: '[R]Chip', Timezone: 5 },
+	{ Name: '[R]Chip', Timezone: 9.5 },
 	{ Name: '[R]GR!NGO', Timezone: 10 },
 	//{ Name: 'i[R]ongirl', Timezone: -10 },
 	{ Name: '[R]Jan :)', Timezone: -1 },
