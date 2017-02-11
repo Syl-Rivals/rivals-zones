@@ -52,7 +52,7 @@ rivals.jsonTimes = [
 	{ Name: 'Arian', Timezone: 5 },
 	{ Name: 'Blaidd', Timezone: 4 },
 	{ Name: 'Special', Timezone: -6},
-	{ Name: 'Maximum', Timezone: 8}
+	{ Name: 'Maximum', Timezone: 9}
 ];
 
 // Basic timezones
