@@ -11,7 +11,7 @@ rivals.jsonTimes = [
 	{ Name: '[R] QB300', Timezone: 11 },
 	{ Name: '[R]Jan :)', Timezone: -1 },
 	{ Name: '~ca~[R]~is~', Timezone: -11 },
-	{ Name: '[R]johns', Timezone: 0},
+	{ Name: '[R]johns', Timezone: 0 },
 	//{ Name: 'Alex*', Timezone: ? }, UNKNOWN TIMEZONE
 	//{ Name: '[R] Avelane', Timezone: 1 }, INACTIVE
 	{ Name: 'Ve[R]l', Timezone: 7 },
@@ -20,7 +20,7 @@ rivals.jsonTimes = [
 	{ Name: '[R] BasedGod', Timezone: -5 },
 	{ Name: 'gato pirata', Timezone: 4 },
 	{ Name: 'Sense[R]', Timezone: 0 },
-	{ Name: 'Maximum', Timezone: 9},
+	{ Name: 'Maximum', Timezone: 9 },
 	{ Name: '[R] Seven', Timezone: -11 },
 	{ Name: '[R] Excelsior', Timezone: +1 },
 	{ Name: '[R]yudee', Timezone: 8 },
@@ -39,8 +39,8 @@ rivals.jsonTimes = [
 	{ Name: '(R) Toriki', Timezone: 6 },
 	{ Name: '颶風', Timezone: +4.5 },
 	{ Name: 'Guru', Timezone: +1 },
-	{ Name: 'Champagne', Timezone: -3},
-	{ Name: 'Special', Timezone: -5},
+	{ Name: 'Champagne', Timezone: -3 },
+	{ Name: 'Special', Timezone: -5 },
 	{ Name: '[R]GR!NGO', Timezone: 10 },
 	{ Name: '[R]Deadline', Timezone: 1 },
 	{ Name: '[R]TomTom', Timezone: 12 },
