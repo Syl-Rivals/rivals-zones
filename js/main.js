@@ -38,7 +38,7 @@ rivals.jsonTimes = [
 	{ Name: 'i[R]ongirl', Timezone: -2 },
 	{ Name: '(R) Toriki', Timezone: 6 },
 	{ Name: '颶風', Timezone: +4.5 },
-	{ Name: 'Guru', Timezone: +1 },
+	{ Name: 'Guru', Timezone: +2 },
 	{ Name: 'Champagne', Timezone: -3 },
 	{ Name: 'Special', Timezone: -5 },
 	{ Name: '[R]GR!NGO', Timezone: 10 },
