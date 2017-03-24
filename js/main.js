@@ -1,6 +1,6 @@
 var rivals = rivals || {};rivals.utils = rivals.utils || {};
 rivals.jsonTimes = [
-	{ Name: '[R]NetanelG', Timezone: 2 },
+	{ Name: '[R]NetanelG', Timezone: 3 },
 	{ Name: '[R]Bernado', Timezone: -1 },
 	{ Name: '[R[Vitold', Timezone: 11 },
 	{ Name: '[R] Syl', Timezone: -3 },
