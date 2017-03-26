@@ -30,7 +30,7 @@ rivals.jsonTimes = [
 	{ Name: '[R] Nukinfutz', Timezone: 10 },
 	{ Name: '[R]aven', Timezone: 7 },
 	{ Name: '[R] El Greco', Timezone: 5 },
-	{ Name: '[R] Elaynode', Timezone: 2 },
+	{ Name: '[R] Elaynode', Timezone: 3 },
 	{ Name: '[R] Andy', Timezone: 8 },
 	{ Name: '[R]Chip', Timezone: 9.5 },
 	{ Name: 'FisHunte[R]Ⓡ', Timezone: 3 },
