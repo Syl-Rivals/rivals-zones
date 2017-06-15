@@ -21,7 +21,7 @@ rivals.jsonTimes = [
 	{ Name: 'gato pirata', Timezone: 4 },
 	{ Name: 'Sense[R]', Timezone: 0 },
 	{ Name: 'Maximum', Timezone: 9 },
-	{ Name: '[R] Seven', Timezone: -11 },
+	{ Name: '[R] Seven', Timezone: 8 },
 	{ Name: '[R] Excelsior', Timezone: +1 },
 	{ Name: '[R]yudee', Timezone: 8 },
 	//{ Name: 'Phu Thieu Gia', Timezone: -11 },
